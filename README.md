@@ -235,4 +235,4 @@ This repository serves as the official landing page for Remote Mouse. The softwa
 **Get the most recent version of Remote Mouse today!**
 
 ---
-**Last updated:** 2026-09-23 23:28:00 UTC
+**Last updated:** 2026-09-24 03:53:26 UTC
